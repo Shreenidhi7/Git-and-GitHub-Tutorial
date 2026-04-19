@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "841c4ef86c8afcf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a660dd6b6974373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8e06f055dec29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitAndGitHub_RunningNotes/15 - Git Clone and Push Feature Branch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 - Git Clone and Push Feature Branch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42b0f543657881dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c595e1bdd7b02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e7032fa4b3c01a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "98f42aa3214cdc03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68ad83dfd44ced57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "510e12cc9140ff28",
+    "type": "split",
+    "children": [
+      {
+        "id": "6407392e39d4dedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50f8790864aaa2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2a04a7c48f33d20b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "673316a59a1119db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19d8ee077e98eff6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09fdf90c0062ea4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fa8e06f055dec29b",
+  "lastOpenFiles": [
+    "GitAndGitHub_RunningNotes/14 - Push to GitHub.md",
+    "GitAndGitHub_RunningNotes/15 - Git Clone and Push Feature Branch.md",
+    "Pasted image 20260419154131.png",
+    "GitAndGitHub_RunningNotes/3 - Git Initialize.md",
+    "GitAndGitHub_RunningNotes/2 - Git Fundamentals.md",
+    "GitAndGitHub_RunningNotes/1 - Environment Setup.md",
+    "GitAndGitHub_RunningNotes/13 - Git Stashing.md",
+    "Pasted image 20260418231813.png",
+    "Pasted image 20260418230948.png",
+    "Pasted image 20260418230040.png",
+    "GitAndGitHub_RunningNotes/12 - Cherry Picking.md",
+    "Pasted image 20260418213402.png",
+    "Pasted image 20260418212413.png",
+    "GitAndGitHub_RunningNotes/11 - Git Reflog and Commit History.md",
+    "Pasted image 20260418210827.png",
+    "Pasted image 20260418164940.png",
+    "Pasted image 20260418163925.png",
+    "GitAndGitHub_RunningNotes/10 - Git Rebase.md",
+    "Pasted image 20260418141816.png",
+    "GitAndGitHub_RunningNotes/9 - Merge Conflicts.md",
+    "GitAndGitHub_RunningNotes/8 - Git Branches and Merges.md",
+    "GitAndGitHub_RunningNotes/7 - Gitignore and Gitkeep.md",
+    "GitAndGitHub_RunningNotes/6 - Git Log.md",
+    "GitAndGitHub_RunningNotes/5 - Git Add and Git Commit.md",
+    "GitAndGitHub_RunningNotes/4 - Git Insiders.md",
+    "1 - Environment Setup.md"
+  ]
+}
